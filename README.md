@@ -1,2 +1,2 @@
 # mastercomfig-pipe
-A native background pipe to support advanced TF2 scripting
+A native background pipe to support advanced TF2 scripting.
